@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+Omnifood Contents
+A
 
 # local env files
 .env.local
